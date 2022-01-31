@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Яковлев_Н_21Д_Задание_2__номер_25.geo_figure">
+    <Position X="8" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAEBAABAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>geo_figure.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Яковлев_Н_21Д_Задание_2__номер_25.line">
+    <Position X="10.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>line.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Яковлев_Н_21Д_Задание_2__номер_25.fill">
+    <Position X="5.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\Downloads\fill.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
